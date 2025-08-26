@@ -1,7 +1,0 @@
-{
-  "name": "Wolf",
-  "symbol": "WOLF",
-  "decimals": 18,
-  "erc20": true,
-  "logo": "./icons/eip155:1/erc20:0x044fe33895Cb7c6e4566DA8E24420C1110933a63.svg"
-}
